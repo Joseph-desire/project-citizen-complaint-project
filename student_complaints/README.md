@@ -21,7 +21,7 @@ to provide citizen withan easy and effective way ofsubmiting their complaint, re
 - Log out securely.
 
 ### 1.projects main landing page:
-![landing page](image/main.png)
+![landing page](image/comunity.png)
 *main landing page where user may interact with the system*
 
 ## Technologies Used
