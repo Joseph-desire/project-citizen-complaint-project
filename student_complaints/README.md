@@ -1,9 +1,13 @@
 # Citizen Complaints System
 
-## PROJECT OVERVIEW
-The Citizen Complaints System is a web platform designed to connect government authorities with their citizens. It allows citizens to submit complaints, express ideas, and report urgent issues in a structured and organized way.
-##PURPOSE
-to provide citizen withan easy and effective way ofsubmiting their complaint, report issues and express ideas while enabling authorities to manage and respond to these concerns efficiently
+##  Introduction
+
+**The Citizen Complaints System** is a web platform designed to bridge the communication gap between government authorities and citizens. It enables citizens to submit complaints, express ideas, and report urgent issues in a structured and organized manner.
+
+## Purpose
+
+The main purpose of this system is to provide citizens with a simple, accessible, and effective way to submit their complaints, report issues, and share suggestions. At the same time, it equips authorities with tools to manage, review, and respond to these concerns efficiently and transparently.
+
 
 
 ## Functional Requirements
@@ -21,7 +25,7 @@ to provide citizen withan easy and effective way ofsubmiting their complaint, re
 - Log out securely.
 
 ### 1.projects main landing page:
-![landing page](image/comunity.png)
+![landing page](image/main.png)
 *main landing page where user may interact with the system*
 
 ## Technologies Used
